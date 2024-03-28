@@ -872,7 +872,7 @@
 }
 
 @media screen and (max-width: 429px) {
-  .container {
+  .container-header {
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -889,7 +889,6 @@
     line-height: 150%;
     letter-spacing: 0.02em;
     color: var(--navy-blue);
-    display: none;
   }
   .info {
     font-family: var(--font-family);
